@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Sobre mim - Teste </h2>
+<h2 align="center">Sobre mim :)</h2>
 
 ###
 
