@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/banner.png" width="100%" alt="Cyberpunk GitHub Banner"/>
+<img src="https://raw.githubusercontent.com/luandasilval/luandasilval/main/images/banner.png" width="100%" />
 
 # 🩷 Olá, seja bem-vindo(a) ao meu perfil! 🩷
 
