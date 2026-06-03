@@ -45,7 +45,7 @@ Meu nome é **Luanda**, sou estudante e moro em
 ```txt
 📡 IoT
 🤖 Automação Industrial
-🌡️ Controle de Ar-Condicionado via MQTT
 📱 Desenvolvimento Mobile
 💻 Desenvolvimento de Sistemas
 🔒 Redes e Infraestrutura
+🌐 Desenvolvimento Web
