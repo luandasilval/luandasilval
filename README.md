@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/luandasilval/luandasilval/main/images/banner.png" width="100%" />
 
 # 🩷 Olá, seja bem-vindo(a) ao meu perfil! 🩷
 
