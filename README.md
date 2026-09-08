@@ -28,8 +28,6 @@ Meu nome é **Luanda**, sou estudante e moro em
 
 <img src="https://skillicons.dev/icons?i=cpp" height="55"/>
 <img src="https://skillicons.dev/icons?i=github" height="55"/>
-<img src="https://skillicons.dev/icons?i=git" height="55"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="55"/>
 <img src="https://skillicons.dev/icons?i=linux" height="55"/>
 <img src="https://skillicons.dev/icons?i=figma" height="55"/>
 <img src="https://skillicons.dev/icons?i=androidstudio" height="55"/>
@@ -44,7 +42,6 @@ Meu nome é **Luanda**, sou estudante e moro em
 ```txt
 📡 IoT
 🤖 Automação Industrial
-📱 Desenvolvimento Mobile
 💻 Desenvolvimento de Sistemas
 🔒 Redes e Infraestrutura
 🌐 Desenvolvimento Web
